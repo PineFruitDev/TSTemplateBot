@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "A clean, modular Discord bot template with command class pattern",
+  "type": "module",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "npm run build && node dist/index.js",
+    "start": "node dist/index.js",
+    "register": "npm run build && node dist/register.js",
+    "deploy": "npm-run-all build register"
+  },
+  "keywords": ["discord", "bot", "template", "typescript"],
+  "author": "PineFruitDev <pinefruitdev@gmail.com>",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "npm-run-all": "^4.1.5",
+    "typescript": "^5.9.2"
+  }
+}
