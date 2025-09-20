@@ -1,4 +1,4 @@
-# Discord Bot Template
+# Discord Bot Template (Typescript)
 
 A clean, modular Discord bot template with TypeScript, featuring a command class pattern and single source of truth architecture.
 
