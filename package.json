@@ -13,7 +13,7 @@
     "deploy": "npm-run-all build register"
   },
   "keywords": ["discord", "bot", "template", "typescript"],
-  "author": "PineFruitDev <pinefruitdev@gmail.com>",
+  "author": "PineFruitDev <contact@pinefruit.dev>",
   "dependencies": {
     "discord.js": "^14.22.1",
     "dotenv": "^16.6.1"
