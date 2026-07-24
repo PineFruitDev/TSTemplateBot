@@ -129,9 +129,14 @@ export const ALL_COMMANDS: Command[] = [
 | `DEVELOPER_IDS` | ❌ | Comma-separated user IDs for developer commands |
 | `NODE_ENV` | ❌ | Environment mode (defaults to `production`) |
 
-## License
+## License Note
+This project is licensed under **[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) + the [Commons Clause](https://commonsclause.com/)**. In plain terms:
 
-MIT License - See [LICENSE](LICENSE) file for details.
+- ✅ **Free to use as a template.** Build your own Discord bots on top of it, private or public, monetized or not, at no cost.
+- ✅ **Forking and contributing is welcome.** Fork the repo, modify the code, and open a PR. Community contributions are encouraged.
+- ❌ **You cannot sell the template itself.** The Commons Clause means you may not sell a product or service whose value derives *primarily* from this template (for example, reselling it as a paid starter kit or boilerplate).
+
+In short: build whatever bots you want *with* this template, just do not sell the template itself. See [LICENSE](LICENSE) for the full terms.
 
 ## Contributing
 
