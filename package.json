@@ -2,6 +2,7 @@
   "name": "discord-bot-template",
   "version": "1.0.0",
   "description": "A clean, modular Discord bot template with command class pattern",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "private": true,
   "main": "dist/index.js",
