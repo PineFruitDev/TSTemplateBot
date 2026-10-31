@@ -145,3 +145,10 @@ In short: build whatever bots you want *with* this template, just do not sell th
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+
+## Free Discord tools
+Browser-only helpers from [Modulix Bots](https://bots.modulix.gg/tools), handy while building your bot:
+- [Embed builder](https://bots.modulix.gg/tools/embed): design embeds and copy the JSON
+- [Permissions calculator](https://bots.modulix.gg/tools/permissions): get the permission integer for invite links
+- [Timestamp generator](https://bots.modulix.gg/tools/timestamp): `<t:unix:style>` tags
+- [Account age checker](https://bots.modulix.gg/tools/account-age): creation date from any Discord ID
