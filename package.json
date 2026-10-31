@@ -16,7 +16,7 @@
   "keywords": ["discord", "bot", "template", "typescript"],
   "author": "PineFruitDev <contact@pinefruit.dev>",
   "dependencies": {
-    "discord.js": "^14.22.1",
+    "discord.js": "^14.28.0",
     "dotenv": "^16.6.1"
   },
   "devDependencies": {
