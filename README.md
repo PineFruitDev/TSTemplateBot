@@ -152,3 +152,5 @@ Browser-only helpers from [Modulix Bots](https://bots.modulix.gg/tools), handy w
 - [Permissions calculator](https://bots.modulix.gg/tools/permissions): get the permission integer for invite links
 - [Timestamp generator](https://bots.modulix.gg/tools/timestamp): `<t:unix:style>` tags
 - [Account age checker](https://bots.modulix.gg/tools/account-age): creation date from any Discord ID
+
+By category: [ID and time tools](https://bots.modulix.gg/tools/discord-id-tools) · [Message tools](https://bots.modulix.gg/tools/discord-message-tools) · [Server setup tools](https://bots.modulix.gg/tools/discord-server-setup-tools) (incl. a [role menu builder](https://bots.modulix.gg/tools/role-menu) and [webhook tester](https://bots.modulix.gg/tools/webhook-tester)).
