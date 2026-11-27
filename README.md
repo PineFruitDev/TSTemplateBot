@@ -147,6 +147,9 @@ In short: build whatever bots you want *with* this template, just do not sell th
 5. Create a Pull Request
 
 ## Free Discord tools
+
+Explore more Discord bots and free tools at [Modulix Bots](https://bots.modulix.gg).
+
 Browser-only helpers from [Modulix Bots](https://bots.modulix.gg/tools), handy while building your bot:
 - [Embed builder](https://bots.modulix.gg/tools/embed): design embeds and copy the JSON
 - [Permissions calculator](https://bots.modulix.gg/tools/permissions): get the permission integer for invite links
